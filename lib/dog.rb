@@ -6,3 +6,5 @@ class Dog
 end
 
 bruno = Dog.new("Bruno", "Dalmation")
+
+puts bruno
