@@ -29,3 +29,5 @@ puts "This is #{bruno.name}. It is a #{bruno.breed}."
 
 bruno.breed = "Dalmation"
 
+puts "This is #{bruno.name}. It is a #{bruno.breed}."
+
