@@ -7,4 +7,4 @@ end
 
 bruno = Dog.new("Bruno", "Dalmation")
 
-puts bruno
+puts "This is #{bruno.name}. It is a #{bruno.breed}."
