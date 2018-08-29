@@ -23,7 +23,7 @@ class Dog
   
 end
 
-bruno = Dog.new("Bruno", "Dalmation")
+bruno = Dog.new("Bruno")
 
 puts "This is #{bruno.name}. It is a #{bruno.breed}."
 
